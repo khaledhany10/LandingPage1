@@ -435,7 +435,7 @@ nav a.active::after {
 }
 
 .repairs-banner {
-    background-image: url('images/sections.png');
+    background-image: url("./Images/sections.png");
     background-size: cover;
     background-position: center;
     border-radius: 8px;
